@@ -16,8 +16,12 @@ CDF
 Sampling Statistics 
 Boot Strapping
 
+
 different Distributions 
 Transformations 
+
+Central Limit Theorem 
+Confidence Interval
 
 Hypothesis testing : 
   - Z-test
